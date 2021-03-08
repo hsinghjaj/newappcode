@@ -1,1 +1,3 @@
 "this is file a"- git hub 
+
+this is 3 way merge

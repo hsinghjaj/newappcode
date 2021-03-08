@@ -1,1 +1,3 @@
 "this is file b" for feature branch
+
+this is 3 way merge
